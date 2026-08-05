@@ -53,7 +53,7 @@ export default function Hero() {
         {/* CTAs */}
         <motion.div {...fadeUp(0.4)} className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-14">
           <a
-            href="/thamizhvanan_g.pdf"
+            href="/portfolio/public/Thamizhvanan_G.pdf"
             download
             className="group flex items-center gap-2.5 px-6 py-3.5 rounded-xl bg-gradient-to-r from-brand-500 to-accent-500 text-white font-semibold shadow-lg shadow-brand-500/30 hover:shadow-brand-500/50 hover:scale-105 transition-all duration-200"
           >
