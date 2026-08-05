@@ -136,7 +136,7 @@ export default function Hero() {
           className="flex flex-col sm:flex-row items-center justify-center gap-4 sm:gap-6 mb-16"
         >
           <a
-            href="/Thamizhvanan_G_Resume.pdf"
+            href="/Thamizhvanan_G.pdf"
             download
             className="group flex items-center justify-center gap-2.5 w-full sm:w-auto px-8 py-4 rounded-full font-bold text-white transition-all duration-300 hover:-translate-y-1 hover:shadow-xl hover:shadow-indigo-500/25 active:translate-y-0 bg-gradient-to-r from-indigo-500 to-violet-500 shimmer"
           >
